@@ -1,5 +1,5 @@
 # JavaScript
-REvise from here(soon will complete it)
+REvise from here(Will complete it)
 
 JavaScript is used by 95% of all the websites which you can check [here](https://w3techs.com/technologies/details/cp-javascript).
 
