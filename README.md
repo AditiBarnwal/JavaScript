@@ -69,6 +69,25 @@ In the above code, the super keyword is used to refer to the immediate parent cl
 # JavaScript Array
 
 -It is used to store multiple elements in a single variable.
-![jsarray](https://user-images.githubusercontent.com/90051406/198825954-6c5413cb-c3d1-4ea6-ba0f-ddf042433753.png)
+  
+### Array Methods
+![jsarray](https://user-images.githubusercontent.com/90051406/198860658-cb6f1a94-23a1-4312-850e-3975448c6fa4.png)
 
-The Array.entries() method works on iterable objects such as an array (or any data iterable data structure) and it used to fetch all the entries of the same data structure. This method is used to get a new Array that contains the key and value pairs for each index of an array. 
+### Array Property
+![arrayproperty](https://user-images.githubusercontent.com/90051406/198861852-de15e09b-7531-4aef-a96b-f1d23d61e8f6.png)
+  
+# ArrayBuffer 
+
+![arraybuffer](https://user-images.githubusercontent.com/90051406/198862563-ced60838-0698-44c6-9bf1-9542f036b572.png)
+  
+🔼 Difference between property and function in javascript. 
+- Property in JavaScript is nothing but a value whereas method is a function
+
+🔼 Difference between bytelength and length property- 
+- Length property returns the length of a String object i.e, number of characters in the string object. 
+
+# Atomics
+![Atomic](https://user-images.githubusercontent.com/90051406/198863445-a3914d4e-499f-4e64-ab90-2fe81ea96c18.png)
+  
+# BigInt  
+  
